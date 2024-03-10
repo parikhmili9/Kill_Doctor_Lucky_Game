@@ -1,0 +1,29 @@
+Welcome to the game!
+Create a player to start the game.
+Enter "HELP" for more Info 
+ADDPLAYER Shreyas Dining Hall        ----------- adding player
+Player Shreyas has been created.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+MOVEPET Dining Hall          ------------------ moving pet
+Player Shreyas has moved Fortune the Cat to the Dining Hall
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+DISPLAYROOM Foyer             ------------------ pet moves by skipping 1 room ie in increments of 2 in the ordered list in which rooms were created from the specification file
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Pet in the room : Fortune the Cat
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+QUIT        --------- quiting
+Game Quit!

@@ -1,0 +1,59 @@
+Welcome to the game!
+Create a player to start the game.
+Enter "HELP" for more Info 
+ADDPLAYER Shreyas Dining Hall
+Player Shreyas has been created.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+DISPLAYROOM Armory
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+LOOK
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Weapon/s in the room : [Duck Decoy, Monkey Hand]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Weapon/s in the room : [Crepe Pan, Sharp Knife]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Weapon/s in the room : [Letter Opener]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Weapon/s in the room : [Billiard Cue]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Weapon/s in the room : [Rat Poison, Piece of Rope]
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+QUIT
+Game Quit!

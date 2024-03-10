@@ -1,0 +1,121 @@
+Welcome to the game!
+Create a player to start the game.
+Enter "HELP" for more Info 
+ADDPLAYER Shreyas Armory
+Player Shreyas has been created.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+DISPLAYROOM Armory
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+ADDCOMPUTER Alex Billiard Room
+Player Alex has been created.
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Weapon/s in the room : [Billiard Cue]
+Player/s in the room : [Alex]
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+PICK Revolver
+Shreyas has picked Revolver
+Doctor Lucky has moved to the Billiard Room
+Alex's turn : 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Weapon/s in the room : [Billiard Cue]
+Target in the room : Doctor Lucky
+Player/s in the room : [Alex]
+Player Alex has moved to the Trophy Room
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+DISPLAYROOM Carriage House
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Target in the room : Doctor Lucky
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+DISPLAYROOM Drawing Room
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Weapon/s in the room : [Letter Opener]
+Pet in the room : Fortune the Cat
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+MOVEPET Dining Hall
+Player Shreyas has moved Fortune the Cat to the Dining Hall
+Doctor Lucky has moved to the Dining Hall
+Alex's turn : 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Weapon/s in the room : [Duck Decoy, Monkey Hand]
+Player/s in the room : [Alex]
+Computer has looked.
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Weapon/s in the room : [Duck Decoy, Monkey Hand]
+Player/s in the room : [Alex]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Library
+Neighbours of the room : [Master Suite, Nursery, Trophy Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Weapon/s in the room : [Billiard Cue]
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+DISPLAYROOM Hedge Maze
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Weapon/s in the room : [Loud Noise]
+Pet in the room : Fortune the Cat
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+QUIT
+Game Quit!

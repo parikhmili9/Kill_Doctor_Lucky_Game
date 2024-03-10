@@ -1,0 +1,7 @@
+Welcome to Doctor Lucky's Mansion 
+Room Name : Lancaster Room 
+Weapon Name : Silken Cord 
+Neighbours of the Room : [Lilac Room , Servants' Quarters ]
+2
+Carriage House 
+[Foyer , Hedge Maze , Winter Garden ]

@@ -1,0 +1,89 @@
+Welcome to the game!
+Create a player to start the game.
+Enter "HELP" for more Info 
+ADDPLAYER Shreyas Armory
+Player Shreyas has been created.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+POKE
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Player/s in the room : [Shreyas]
+PICK Revolver
+Shreyas has picked Revolver
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+MOVE Dining Hall
+Player Shreyas has moved to the Dining Hall
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+KILL Revolver
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+MOVE Parlor
+Player Shreyas has moved to the Parlor
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Player/s in the room : [Shreyas]
+DISPLAYROOM Parlor
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Player/s in the room : [Shreyas]
+MOVE Kitchen
+Player Shreyas has moved to the Kitchen
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Weapon/s in the room : [Crepe Pan, Sharp Knife]
+Player/s in the room : [Shreyas]
+PICK Crepe Pan
+Shreyas has picked Crepe Pan
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Weapon/s in the room : [Sharp Knife]
+Player/s in the room : [Shreyas]
+PICK Sharp Knife
+Shreyas has picked Sharp Knife
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+KILL Sharp Knife
+Game over! Shreyas has won the game!

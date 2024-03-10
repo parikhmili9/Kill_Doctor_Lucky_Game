@@ -1,0 +1,139 @@
+Welcome to the game!
+Create a player to start the game.
+Enter "HELP" for more Info 
+HELP
+Enter "DISPLAYROOM<space>ROOMNAME" to display any room details.
+Enter the Room Name exactly as mentioned in specification file.
+
+Enter "DISPLAYPLAYER<space>PLAYERNAME" to display any player details.
+Please note that PlayerName cannot have multiple strings separated by any spaces.
+
+Enter "ADDPLAYER<space>PLAYERNAME<space>ROOMNAME" to add new player in desired room.
+Please note that PlayerName cannot have multiple strings separated by any spaces.
+Enter the Room Name exactly as mentioned in specification file.
+
+Enter "ADDCOMPUTER<space>ROOMNAME" to add new player in desired room.
+Enter the Room Name exactly as mentioned in specification file.
+Please note that computer player should only be added after adding at least one human player.
+
+Enter "MOVE<space>ROOMNAME" to move to the specified room.
+Enter the Room Name exactly as mentioned in specification file.
+You can only move to the neighbouring spaces from your current room.
+
+Enter "PICK<space>WEAPONNAME" to pick weapon from your current room.
+You can only pick weapon/s from your current room.
+Enter the Weapon Name exactly as mentioned in specification file.
+
+Enter "LOOK" to look around from your current room.
+
+Enter "IMAGE" to get the image of the game world.
+
+Enter "QUIT" to quit the game.
+
+Enter "HELP" to get more details on how to play the game.
+
+Create a player to start the game.
+Enter "HELP" for more Info 
+ADDPLAYER Shreyas Armory
+Player Shreyas has been created.
+Shreyas's turn : 
+ADDCOMPUTER Billiard Room
+Player Computer has been created.
+Shreyas's turn : 
+DISPLAYROOM Armory
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Weapon/s in the room : [Revolver]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+PICK Revolver
+Shreyas has picked Revolver
+Computer's turn : 
+Computer has looked.
+Neighbours of Billiard Room are : [Trophy Room, Dining Hall, Armory]
+Shreyas's turn : 
+DISPLAYPLAYER Shreyas
+Name of the player : Shreyas
+Location of the player : Armory
+Player has weapon/s : [Revolver]
+Shreyas's turn : 
+LOOK
+Neighbours of Armory are : [Dining Hall, Drawing Room, Billiard Room]
+Computer's turn : 
+Computer has picked Billiard Cue
+Shreyas's turn : 
+MOVE Drawing Room
+Player Shreyas has moved to Drawing Room
+Computer's turn : 
+Player Computer has moved to Trophy Room
+Shreyas's turn : 
+DISPLAYROOM Drawing Room
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Weapon/s in the room : [Letter Opener]
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+PICK Letter Opener
+Shreyas has picked Letter Opener
+Computer's turn : 
+Player Computer has moved to Library
+Shreyas's turn : 
+DISPLAYPLAYER Comuter
+Invalid Input, Please re-enter
+Shreyas's turn : 
+DISPLAYPLAYER Computer
+Name of the player : Computer
+Location of the player : Library
+Shreyas's turn : 
+ADDPLAYER Professor
+Invalid Input, Please re-enter
+Shreyas's turn : 
+ADDPLAYER Professor Library
+Player Professor has been created.
+Shreyas's turn : 
+LOOK
+Neighbours of Drawing Room are : [Foyer, Dining Hall, Armory, Wine Cellar]
+Computer's turn : 
+Computer has looked.
+Neighbours of Library are : [Master Suite, Nursery, Trophy Room]
+Professor's turn : 
+LOOK
+Neighbours of Library are : [Master Suite, Nursery, Trophy Room]
+Shreyas's turn : 
+DISPLAYPLAYER Shreyas
+Name of the player : Shreyas
+Location of the player : Drawing Room
+Player has weapon/s : [Revolver, Billiard Cue, Letter Opener]
+Shreyas's turn : 
+DISPLAYROOM Drawing Room
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Shreyas's turn : 
+LOOK
+Neighbours of Drawing Room are : [Foyer, Dining Hall, Armory, Wine Cellar]
+Computer's turn : 
+Computer has looked.
+Neighbours of Library are : [Master Suite, Nursery, Trophy Room]
+Professor's turn : 
+MOVE Trophy Room
+Player Professor has moved to Trophy Room
+Shreyas's turn : 
+LOOK
+Neighbours of Drawing Room are : [Foyer, Dining Hall, Armory, Wine Cellar]
+Computer's turn : 
+Computer has looked.
+Neighbours of Library are : [Master Suite, Nursery, Trophy Room]
+Professor's turn : 
+LOOK
+Neighbours of Trophy Room are : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Shreyas's turn : 
+IMAGE
+The image has been created.
+Shreyas's turn : 
+MOVE Dining Hall
+Player Shreyas has moved to Dining Hall
+Computer's turn : 
+Player Computer has moved to Trophy Room
+Game over! Maximum no of turns reached

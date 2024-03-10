@@ -1,0 +1,2087 @@
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Dining Hall
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Trophy Room
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Wine Cellar
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Armory
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Parlor
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Kitchen
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Dining Hall
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Wine Cellar
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Piazza
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Target in the room : Doctor Lucky
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Master Suite
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Drawing Room
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Armory
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Lilac Room
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Drawing Room
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Wine Cellar
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Billiard Room
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Kitchen
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Dining Hall
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Trophy Room
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Library
+Neighbours of the room : [Master Suite, Nursery, Trophy Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Parlor
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Library
+Neighbours of the room : [Master Suite, Nursery, Trophy Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Billiard Room
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Foyer
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Dining Hall
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Dining Hall
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Foyer
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Wine Cellar
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Tennessee Room
+Neighbours of the room : [Master Suite, Trophy Room, Dining Hall, Lilac Room, Parlor]
+Neighbour Info: 
+Name of the room : Trophy Room
+Neighbours of the room : [Tennessee Room, Dining Hall, Library, Billiard Room]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Wine Cellar
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Dining Hall
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Library
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Target in the room : Doctor Lucky
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Lancaster Room
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Nursery
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Wine Cellar
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Kitchen
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Parlor
+Neighbours of the room : [Tennessee Room, Servants' Quarters, Kitchen, Dining Hall]
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Kitchen
+Neighbours of the room : [Dining Hall, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Dining Hall
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Armory
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Neighbour Info: 
+Name of the room : Billiard Room
+Neighbours of the room : [Trophy Room, Dining Hall, Armory]
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Drawing Room
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Drawing Room
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Neighbour Info: 
+Name of the room : Dining Hall
+Neighbours of the room : [Tennessee Room, Trophy Room, Kitchen, Drawing Room, Armory, Billiard Room, Parlor, Wine Cellar]
+Neighbour Info: 
+Name of the room : Armory
+Neighbours of the room : [Dining Hall, Drawing Room, Billiard Room]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Wine Cellar
+Neighbours of the room : [Kitchen, Dining Hall, Drawing Room]
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Foyer
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Target in the room : Doctor Lucky
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Nursery
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Library
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Master Suite
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Foyer
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Nursery
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Drawing Room
+Neighbours of the room : [Foyer, Dining Hall, Armory, Wine Cellar]
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Hedge Maze
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Green House
+Neighbours of the room : [Hedge Maze]
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Green House
+Neighbours of the room : [Hedge Maze]
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Green House
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Armory
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Target in the room : Doctor Lucky
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Hedge Maze
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Green House
+Neighbours of the room : [Hedge Maze]
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Winter Garden
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Piazza
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Target in the room : Doctor Lucky
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Parlor
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Carriage House
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Library
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Target in the room : Doctor Lucky
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Winter Garden
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Target in the room : Doctor Lucky
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Piazza
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Parlor
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Player Shreyas has successfully attempted damage on Doctor Lucky's life!
+Doctor Lucky has moved to the Servants' Quarters
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Tennessee Room
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Winter Garden
+Doctor Lucky has moved to the Trophy Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Carriage House
+Doctor Lucky has moved to the Wine Cellar
+Shreyas's turn : 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Trophy Room
+Doctor Lucky has moved to the Winter Garden
+Shreyas's turn : 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Winter Garden
+Doctor Lucky has moved to the Armory
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Dining Hall
+Doctor Lucky has moved to the Billiard Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Carriage House
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Target in the room : Doctor Lucky
+Doctor Lucky has moved to the Dining Hall
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Drawing Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Foyer
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Green House
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Pet in the room : Fortune the Cat
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Winter Garden
+Doctor Lucky has moved to the Hedge Maze
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Kitchen
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Master Suite
+Doctor Lucky has moved to the Lancaster Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Library
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Lilac Room
+Doctor Lucky has moved to the Lilac Room
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Neighbour Info: 
+Name of the room : Carriage House
+Neighbours of the room : [Winter Garden]
+Weapon/s in the room : [Chain Saw, Big Red Hammer]
+Doctor Lucky has moved to the Master Suite
+Shreyas's turn : 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Player/s in the room : [Shreyas]
+Player Shreyas has moved to the Piazza
+Doctor Lucky has moved to the Nursery
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has moved the pet.
+Player Shreyas has moved Fortune the Cat to the Armory
+Doctor Lucky has moved to the Parlor
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Computer has looked.
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Player/s in the room : [Shreyas]
+Neighbour Info: 
+Name of the room : Winter Garden
+Neighbours of the room : [Piazza, Carriage House]
+Neighbour Info: 
+Name of the room : Hedge Maze
+Neighbours of the room : [Piazza, Green House]
+Neighbour Info: 
+Name of the room : Foyer
+Neighbours of the room : [Piazza, Drawing Room]
+Doctor Lucky has moved to the Piazza
+Shreyas's turn : 
+Name of the room : Piazza
+Neighbours of the room : [Winter Garden, Hedge Maze, Foyer]
+Target in the room : Doctor Lucky
+Player/s in the room : [Shreyas]
+Game over! Shreyas has won the game!
